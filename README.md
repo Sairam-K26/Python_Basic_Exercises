@@ -44,14 +44,14 @@ This script explains how to define and call functions in Python. It covers funct
 ### loop.py
 This script covers loops in Python, including for and while loops, along with examples of how to use them.
 
-### list.py
+### Lists.py
 This script explores lists in Python, including how to create, access, modify, and iterate through lists. It also covers list methods and operations.
 
 ### string.py
 This script deals with strings in Python. It covers string manipulation, methods, and formatting.
 
-### tuple.py
-This script explains tuples in Python, including how to create, access, and manipulate them. It covers tuple operations and methods.
+### Conditional_statment.py
+This script demonstrates the use of comparison operators and conditional statements (`if`, `elif`, `else`) in Python, including logical conditions and truthy/falsy evaluations.
 
 ### set.py
 This script delves into sets in Python, including how to create sets, perform set operations, and use set methods.
@@ -59,7 +59,7 @@ This script delves into sets in Python, including how to create sets, perform se
 ### dictionary.py
 This script focuses on dictionaries in Python. It covers creating, accessing, modifying, and iterating through dictionaries, as well as dictionary methods.
 
-### exception_handling.py
+### Try_Except.py
 This script discusses exception handling in Python. It explains how to use try, except blocks to handle exceptions.
 
 ### input.py
