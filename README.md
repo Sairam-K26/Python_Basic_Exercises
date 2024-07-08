@@ -2,20 +2,6 @@
 
 Welcome to the Python Basics Exercises repository! This repository is designed to help you master the fundamentals of Python programming. Each Python file in this folder focuses on a specific aspect of Python, providing exercises and examples to enhance your understanding.
 
-## Table of Contents
-
-variables.py
-operations.py
-function.py
-loop.py
-list.py
-string.py
-tuple.py
-set.py
-dictionary.py
-exception_handling.py
-input.py
-
 ## Getting Started
 
 To get started with these exercises, you will need to have Python installed on your system. You can download the latest version of Python from [python.org](https://www.python.org/downloads/).
