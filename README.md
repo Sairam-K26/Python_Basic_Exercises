@@ -23,7 +23,7 @@ To get started with these exercises, you will need to have Python installed on y
 Clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/Python-Basics-exercises.git
+git clone https://github.com/Sairam-K26/Python_Basic_Exercises.git
 ```
 Navigate
 ```
